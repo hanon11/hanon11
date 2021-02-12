@@ -1,4 +1,4 @@
-<h3 align="center">### Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h3>
+<h3 align="center">Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h3>
 
 <!--
 **hanon11/hanon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
