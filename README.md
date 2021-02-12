@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanon11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) | [![hanon11's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanon11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hanon11&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
