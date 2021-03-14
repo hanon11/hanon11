@@ -1,8 +1,6 @@
 <h3 align="center">Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h3>
 
-![hanon11's GitHub stats](https://github-readme-stats.vercel.app/api?username=hanon11&count_private=true)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hanon11&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **hanon11/hanon11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
