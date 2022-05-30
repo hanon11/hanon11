@@ -1,4 +1,4 @@
-<h1 align="center">>Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h1>
+<h1 align="center">Welcome to hanon11's GitHub Profile! 👋👩🏻‍💻</h1>
 <h3 align="center">I am a student of computer science engineering</h3>
 
 <p align="left"> <a href="https://twitter.com/hanon11_" target="blank"><img src="https://img.shields.io/twitter/follow/hanon11_?logo=twitter&style=for-the-badge" alt="hanon11_" /></a> </p>
